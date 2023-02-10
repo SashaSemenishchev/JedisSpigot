@@ -1,0 +1,5 @@
+name: JedisSpigot
+version: '${version}'
+main: me.mrfunny.jedispigot.JedisSpigot
+load: STARTUP
+description: A messenger service provider based on Jedis, Redis
